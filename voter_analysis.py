@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from random import choice, randint
+import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 
 # Set seed for reproducibility
